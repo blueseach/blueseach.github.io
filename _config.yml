@@ -6,9 +6,7 @@ avatar:           myavatar.jpg # 添加你的头像
 favicon:          favicon.ico # 添加用于显示于浏览器 Tab 上的博客图标
 email:            your-email@domain.com
 description: >    # 主题简介，可改为博客描述
-  Roon was an excellent service, with a beautiful understated design. After
-  being acquired by <a href='https://ghost.org'>Ghost</a>, the Roon theme was
-  open sourced.<br> This is my Jekyll port of the Roon theme.
+  路虽远，行则将至
 
 url:              "/" # 添加域名（不需要 http:// 前缀），或使用「/」作为博客根链接，
 baseurl:          "" # the subpath of your site, e.g. /blog/
