@@ -7,8 +7,7 @@ permalink: /About/
 <center>
     <p><img src="http://oa1mlhrmq.bkt.clouddn.com/avatar.png" align="center"></p>
 </center>
-Hello
-
+欢迎你来
 
 
 <center>
