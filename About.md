@@ -10,7 +10,6 @@ permalink: /About/
 Hello
 
 
-> Live long and prosper
 
 <center>
     <p><img src="http://dreamofbook.qiniudn.com/hacker.png" align="center"></p>
