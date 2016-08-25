@@ -2,7 +2,7 @@
 layout: post
 title:  "为你读诗"
 description: 时间划过，文字仍在，获得永恒
-image: gushi.jpg
+image: maple-leaf.jpg
 ---
 
 Created 160719  
