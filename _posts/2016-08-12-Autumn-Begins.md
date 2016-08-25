@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "立秋"
-description:第一次写故事 
+description: 第一次写故事 
 image: autumn.jpg
 ---
 
