@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "童年与故乡"
-description: 
 image: field-rice.jpg
 ---
 
