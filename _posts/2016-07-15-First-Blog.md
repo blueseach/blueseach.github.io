@@ -10,7 +10,7 @@ image: songbie.jpg
 Created 160713  
 By blueseach
 
-以下是markdown课程的作业，先作为第一篇博文，完成写作课读书笔记后再替换。
+以下是markdown课程的作业，作为第一篇博文。
 
 
 # **李叔同作品欣赏**
