@@ -5,11 +5,9 @@ permalink: /About/
 ---
 
 <center>
-    <p><img src="http://oa1mlhrmq.bkt.clouddn.com/avatar.png" align="center"></p>
+    
 </center>
-欢迎你来
-
-
+你好，欢迎你来。我是游遍星辰，一个终身学习者，分享者。
 <center>
     <p><img src="http://dreamofbook.qiniudn.com/hacker.png" align="center"></p>
 </center>
