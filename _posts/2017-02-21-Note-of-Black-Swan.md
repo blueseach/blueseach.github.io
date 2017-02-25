@@ -2,7 +2,7 @@
 layout: post
 title:  "《黑天鹅》读书笔记"
 description: 
-image: swan.jpg
+image: swan.png
 ---
 
 Created 17221 
