@@ -1,4 +1,4 @@
-
+---
 layout: post
 title:  "多者异也：走近深度学习"
 description: 探索人工智能的旅程，犹如另一部《桃花源记》
