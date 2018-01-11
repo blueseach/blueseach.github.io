@@ -117,11 +117,13 @@ f(50,65) =75
   [12]: http://oa01ru7zq.bkt.clouddn.com/image/jpg/matrix1.JPG
   [13]: http://oa01ru7zq.bkt.clouddn.com/image/jpg/matrix2.JPG
   
-  ### 参考文献
-[1] [神经网络浅讲：从神经元到深度学习
-](http://www.cnblogs.com/subconscious/p/5058741.html)
+  ### 参考文献  
+  
+[1] [神经网络浅讲：从神经元到深度学习](http://www.cnblogs.com/subconscious/p/5058741.html)
 
 [2] [追寻记忆的痕迹 之一 学习和记忆的储存假说](http://www.guokr.com/blog/131202/)
 
 [3] 尼古拉斯·卡尔  《浅薄》  中信出版社   2010-12  ISBN: 9787508624488
+
+###注：本文首发于开智学堂公众号
 
