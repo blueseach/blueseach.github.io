@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "书间梦事"
-image: literature.jpg
+image: books.jpg
 ---
 
 Created 170110 
