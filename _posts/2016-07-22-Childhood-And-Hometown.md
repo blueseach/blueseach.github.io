@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "童年与故乡"
+title:  "我的小传之一 童年与故乡"
 image: field-rice.jpg
 ---
 
