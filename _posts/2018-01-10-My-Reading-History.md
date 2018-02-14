@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "书间梦事"
+title:  "我的小传之二 书间梦事"
 image: books.jpg
 ---
 
