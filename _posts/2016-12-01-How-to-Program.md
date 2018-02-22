@@ -142,4 +142,4 @@ By 游遍星辰
   [10]: http://oa01ru7zq.bkt.clouddn.com/image/jpg/20160601-how-to-program-10.jpg
   [11]: http://oa01ru7zq.bkt.clouddn.com/image/jpg/20160601-how-to-program-11.jpg
   [12]: http://oa01ru7zq.bkt.clouddn.com/image/jpg/20160601-how-to-program-12.jpg
-  [13]: http://oa01ru7zq.bkt.clouddn.com/image/jpg/20160601-how-to-program-13.jpg
+  [13]: http://oa01ru7zq.bkt.clouddn.com/image/jpg/20160601-how-to-program-13.png
