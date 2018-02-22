@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "《黑天鹅》读书笔记"
-description: 
+description: 欢迎来到不确定的世界，这里远不完美，但更真实，看似更加危险，却能帮助你不被蒙骗。
 image: swan.png
 ---
 
