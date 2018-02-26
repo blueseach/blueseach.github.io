@@ -2,7 +2,7 @@
 layout: post
 title:  "你好，二零一八"
 description: 愿我们，不负光阴不负己， 一点点靠近自己想要的生活。
-image: candle.jpg
+image: clock.jpg
 ---
 
 Created 180226
